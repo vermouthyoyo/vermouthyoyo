@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Weibin 👋
 
-<!--
-**vermouthyoyo/vermouthyoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate student majoring in **Data Science and Big Data Technology**.  
+My current focus is on **machine learning, data mining, and bio-sequence prediction**.
 
-Here are some ideas to get you started:
+## 🔬 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Reproducing research papers in bioinformatics and machine learning
+- Studying binary classification tasks for biological sequence data
+- Building a reproducible research workflow with Python, Jupyter Notebook, Git, and GitHub
+- Strengthening core foundations in algorithms, statistics, machine learning, and data analysis
+
+## 🧠 Research Interests
+
+- Machine Learning
+- Data Mining
+- Bioinformatics
+- Bio-sequence Classification
+- Class Imbalance Learning
+- Feature Representation and Model Evaluation
+
+## 🛠️ Skills
+
+**Programming Languages**
+
+- Python
+- C / C++
+- Java
+
+**Data Science Tools**
+
+- NumPy
+- Pandas
+- scikit-learn
+- Matplotlib
+- Jupyter Notebook
+
+**Development Tools**
+
+- Git / GitHub
+- VS Code
+- PyCharm
+- MATLAB
+
+## 📌 Academic & Project Experience
+
+- MCM/ICM 2026 Honorable Mention
+- Undergraduate research training in bio-sequence prediction
+- Course projects in machine learning, numerical analysis, and object-oriented programming
+
+## 📚 Currently Learning
+
+- Paper reproduction workflow
+- Machine learning model evaluation
+- Research writing and experiment management
+- Academic English reading and presentation
+
+## 📫 Contact
+
+This profile is mainly used for academic learning, research training, and project management.
